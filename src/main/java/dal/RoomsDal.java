@@ -1,5 +1,10 @@
 package dal;
 
+import java.util.List;
+import java.util.stream.Collectors;
+
+import api.Room;
+
 public class RoomsDal {
     private List<Room> rooms;
     

@@ -1,3 +1,4 @@
+package api;
 public class RoomBookingRequest {
     private String roomName;
     private java.util.Date date;

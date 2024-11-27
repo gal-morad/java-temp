@@ -1,6 +1,7 @@
-/Users/galmorad/WebstormProjects/my-java-project/my-java-project/src/main/RoomFinder.java
-/Users/galmorad/WebstormProjects/my-java-project/my-java-project/src/main/dal/RoomsDal.java
-/Users/galmorad/WebstormProjects/my-java-project/my-java-project/src/main/api/RoomBookingResponse.java
-/Users/galmorad/WebstormProjects/my-java-project/my-java-project/src/main/dal/BookingsDal.java
-/Users/galmorad/WebstormProjects/my-java-project/my-java-project/src/main/api/RoomBookingRequest.java
-/Users/galmorad/WebstormProjects/my-java-project/my-java-project/src/main/App.java
+/Users/galmorad/WebstormProjects/my-java-project/my-java-project/src/main/java/api/RoomBookingResponse.java
+/Users/galmorad/WebstormProjects/my-java-project/my-java-project/src/main/java/api/Room.java
+/Users/galmorad/WebstormProjects/my-java-project/my-java-project/src/main/java/RoomFinder.java
+/Users/galmorad/WebstormProjects/my-java-project/my-java-project/src/main/java/dal/RoomsDal.java
+/Users/galmorad/WebstormProjects/my-java-project/my-java-project/src/main/java/App.java
+/Users/galmorad/WebstormProjects/my-java-project/my-java-project/src/main/java/api/RoomBookingRequest.java
+/Users/galmorad/WebstormProjects/my-java-project/my-java-project/src/main/java/dal/BookingsDal.java
