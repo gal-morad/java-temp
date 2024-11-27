@@ -8,7 +8,7 @@ public class BookingsDal {
         this.bookings.add(generateBookingKey( roomName , date));
     }
 
-    private generateBookingKey(string roomName, java.util.Date date){
+    private string generateBookingKey(string roomName, java.util.Date date){
         return roomName + "_" + date;
     }
 }

@@ -7,7 +7,7 @@ public class RoomsDal {
         this.rooms = rooms;
     }
 
-    public getRoomByCapaciity(int capacity){
+    public List<Room> getRoomByCapacity(int capacity){
         return rooms.stream()
             .filter(room -> room.getCapacity() <= capacity)
             .collect(Collectors.toList());

@@ -1,3 +1,5 @@
+package api;
+
 public class RoomBookingResponse {
     private boolean success;
     private Room room;
